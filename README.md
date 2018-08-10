@@ -1,2 +1,2 @@
-# OPS
-Om Public School
+# DPS
+Delhi Public School
